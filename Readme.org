@@ -1,12 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:59:04.677120
-#+TITLE: 發菩提心戒
-#+PROPERTY: CBETA_ID F28n1076
-#+PROPERTY: ID KR6e0159
-#+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1076
-#+PROPERTY: VOL 28
-#+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 發菩提心戒 
+#+DATE: 2016-06-08 05:28:03.240593
 
-<pb:KR6e0159_F_000-0604a>¶
+* 版本
+ |     CBETA|【電子佛典集成】|
+
+* 目次
+
+* 卷
+[[file:KR6e0159_001.txt][發菩提心戒 1]]
 
